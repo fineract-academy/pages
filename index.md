@@ -12,7 +12,9 @@ Fineract 1.x compares well to other core banking systems and draws from requirem
 
 Apache Fineract 1.x is developed and maintained by an active, independent community of contributors and companies who are building solutions for both financial inclusion and fintech innovation.
 
-A common motto of Apache projects is "Community over code" which applies perfectly to Apache Fineract whereas the contributors are working closely together to make the software better day after day. Without them there would not be Fineract!
+A common motto of Apache projects is "Community over code" which applies perfectly to Apache Fineract whereas the contributors are working closely together to make the software better day after day. 
+
+Without them there would not be Fineract! The credit goes to them!
 
 ## Contribute
 
