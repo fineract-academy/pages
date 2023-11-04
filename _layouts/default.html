@@ -19,12 +19,12 @@
   <body>
     <header>
       <div class="inner">
-        <a href="{{ '/' | absolute_url }}">
+        <a rel="noreferrer" href="{{ '/' | absolute_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
         {% if site.github.is_project_page %}
-          <a href="https://github.com/apache/fineract" class="button"><small>View Apache Fineract project on</small> GitHub</a>
+          <a target="_blank" rel="noreferrer" href="https://github.com/apache/fineract" class="button"><small>View Apache Fineract project on</small> GitHub</a>
         {% endif %}
       </div>
     </header>
@@ -37,7 +37,7 @@
 
         <aside id="sidebar">
           {% if site.show_downloads %}
-            <a href="https://www.apache.org/dyn/closer.cgi?path=/fineract/1.8.4/apache-fineract-1.8.4-binary.tar.gz" class="button">
+            <a target="_blank" rel="noreferrer" href="https://www.apache.org/dyn/closer.cgi?path=/fineract/1.8.4/apache-fineract-1.8.4-binary.tar.gz" class="button">
               <small>Download <br/>Apache Fineract 1.8.4</small>
               .tar.gz file
             </a>
