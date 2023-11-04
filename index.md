@@ -14,7 +14,7 @@ Apache Fineract 1.x is developed and maintained by an active, independent commun
 
 A common motto of Apache projects is "Community over code" which applies perfectly to Apache Fineract whereas the contributors are working closely together to make the software better day after day. 
 
-Without them there would not be Fineract! The credit goes to them!
+<b>Without them there would not be Fineract! The credit goes to them!</b>
 
 ## Contribute
 
