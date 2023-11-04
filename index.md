@@ -2,122 +2,20 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<h1 style="color:red">WORK IN PROGRESS</h1>
 
-[Link to another page](./another-page.html).
+# What is Apache Fineract?
 
-There should be whitespace between paragraphs.
+Apache Fineract is open source software for financial services.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Fineract 1.x compares well to other core banking systems and draws from requirements in credit unions, microfinance institutions, and small non-banking financial institutions. Features include flexible product configuration, KYC documentation support, business rule sets, payment transactions, and portfolio management. It includes an open API that dates to 2011 and is deployed in relatively high transaction volume environments.
 
-# Header 1
+Apache Fineract 1.x is developed and maintained by an active, independent community of contributors and companies who are building solutions for both financial inclusion and fintech innovation.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+A common motto of Apache projects is "Community over code" which applies perfectly to Apache Fineract whereas the contributors are working closely together to make the software better day after day. Without them there would not be Fineract!
 
-## Header 2
+## Contribute
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+The Apache Fineract community welcomes contributors who want to support the Fineract technology. The community builds everything from the official website, to the Fineract code to documentation and best practices information.
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+See more information on the <a target="_blank" ref="noreferrer" href="https://fineract.apache.org"><b>Official Apache Fineract webpage</b></a>!
