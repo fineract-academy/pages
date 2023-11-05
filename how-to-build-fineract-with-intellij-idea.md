@@ -95,14 +95,18 @@ This should get you started with building and running Apache Fineract using Inte
 2. Use `Postgres` as Database engine
    - Set the following `Environment variables`:
      - FINERACT_HIKARI_DRIVER_SOURCE_CLASS_NAME=org.postgresql.Driver
-     - Connecting to `fineract_tenants` database 
-       - FINERACT_HIKARI_JDBC_URL=jdbc:postgresql://localhost:5432/fineract_tenants
-       - FINERACT_HIKARI_USERNAME=postgres
-       - FINERACT_HIKARI_PASSWORD=postgres
+     - Connecting to `fineract_tenants` database
+       ``` 
+       FINERACT_HIKARI_JDBC_URL=jdbc:postgresql://localhost:5432/fineract_tenants
+       FINERACT_HIKARI_USERNAME=postgres
+       FINERACT_HIKARI_PASSWORD=postgres
+       ```
      - Connecting to `fineract_default` database
-       - FINERACT_DEFAULT_TENANTDB_PORT=5432
-       - FINERACT_DEFAULT_TENANTDB_PWD=postgres
-       - FINERACT_DEFAULT_TENANTDB_UID=postgres
+       ```
+       FINERACT_DEFAULT_TENANTDB_PORT=5432
+       FINERACT_DEFAULT_TENANTDB_PWD=postgres
+       FINERACT_DEFAULT_TENANTDB_UID=postgres
+       ```
 
 ### Important
 Keep in mind that Apache Fineract is a complex project, and you may encounter issues or need to configure additional settings based on your specific environment and requirements. It's a good practice to refer to the official Apache Fineract documentation and the project's developer community for more details and troubleshooting.
