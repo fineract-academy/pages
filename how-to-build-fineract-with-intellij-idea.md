@@ -87,19 +87,19 @@ This should get you started with building and running Apache Fineract using Inte
 
 ### Optional extra configurations
 
-1. Use *http* instead of *https* and use *8080* port instead of *8443*
-  - Set the following *Environment variables*:
+1. Use `http` instead of `https` and use `8080` port instead of `8443`
+  - Set the following `Environment variables`:
     - FINERACT_SERVER_SSL_ENABLED=false
     - server.port=8080
 
-2. Use *Postgres* as Database engine
-   - Set the following *Environment variables*:
+2. Use `Postgres` as Database engine
+   - Set the following `Environment variables`:
      - FINERACT_HIKARI_DRIVER_SOURCE_CLASS_NAME=org.postgresql.Driver
-     - Connecting to *tenants* database 
+     - Connecting to `fineract_tenants` database 
        - FINERACT_HIKARI_JDBC_URL=jdbc:postgresql://localhost:5432/fineract_tenants
        - FINERACT_HIKARI_USERNAME=postgres
        - FINERACT_HIKARI_PASSWORD=postgres
-     - Connecting to *fineract_default* database
+     - Connecting to `fineract_default` database
        - FINERACT_DEFAULT_TENANTDB_PORT=5432
        - FINERACT_DEFAULT_TENANTDB_PWD=postgres
        - FINERACT_DEFAULT_TENANTDB_UID=postgres
