@@ -84,6 +84,16 @@ aside#sidebar {
   background: transparent url(../images/sidebar-bg.jpg) 0 0 no-repeat;
 }
 
+aside#left_sidebar {
+  float: left;
+  width: 200px;
+  min-height: 504px;
+  padding-left: 20px;
+  font-size: 12px;
+  line-height: 1.3;
+  background: transparent url(../images/sidebar-bg.jpg) 0 0 no-repeat;
+}
+
 aside#sidebar p.repo-owner,
 aside#sidebar p.repo-owner a {
   font-weight: bold;
