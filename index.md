@@ -4,6 +4,13 @@ layout: default
 
 <h1 style="color:red">WORK IN PROGRESS</h1>
 
+# What is Fineract® Academy?
+
+This is an <b>unofficial</b> site where I will share articiles about the Apache Fineract® and its structure and behaviour.
+This site is intended to share my knowledge about Apache Fineract® and to help new comers to onboard with Apache Fineract®.
+
+The official Apache Fineract® site can be here: <a target="_blank" ref="noreferrer" href="https://fineract.apache.org">Official Apache Fineract®</a>
+
 # What is Apache Fineract®?
 
 Apache Fineract® is open source software for financial services.
