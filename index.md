@@ -11,7 +11,7 @@ Apache Fineract® is open source software for financial services.
 Fineract® 1.x compares well to other core banking systems and draws from requirements in credit unions, microfinance institutions, and small non-banking financial institutions. Features include flexible product configuration, KYC documentation support, business rule sets, payment transactions, and portfolio management. It includes an open API that dates to 2011 and is deployed in relatively high transaction volume environments.
 
 Apache Fineract® 1.x is developed and maintained by an active, independent community of contributors and companies who are building solutions for both financial inclusion and fintech innovation.
-*(source: https://fineract.apache.org)*
+*(source: <a target="_blank" href="https://fineract.apache.org">https://fineract.apache.org</a>)*
 
 A common motto of Apache projects is "Community over code" which applies perfectly to Apache Fineract® whereas the contributors are working closely together to make the software better day after day. 
 
