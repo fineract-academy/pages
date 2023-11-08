@@ -1,12 +1,12 @@
-## Building Apache Fineract with IntelliJ IDEA
+## Building Apache Fineract® with IntelliJ IDEA
 
 ### Prerequisites
-1. **Java**: Ensure you have Java Development Kit (JDK) installed. Apache Fineract typically requires Java 17 (Java 21 is not yet supported).
-2. **Git**: You'll need Git to clone the Apache Fineract source code from the repository.
+1. **Java**: Ensure you have Java Development Kit (JDK) installed. Apache Fineract® typically requires Java 17 (Java 21 is not yet supported).
+2. **Git**: You'll need Git to clone the Apache Fineract® source code from the repository.
 3. **IntelliJ IDEA**: Install IntelliJ IDEA (Community or Ultimate edition).
 ### Steps
-1. **Clone the Apache Fineract Repository:**
-   - Open a terminal or command prompt and navigate to the directory where you want to store the Apache Fineract source code.
+1. **Clone the Apache Fineract® Repository:**
+   - Open a terminal or command prompt and navigate to the directory where you want to store the Apache Fineract® source code.
    - Run the following command to clone the repository:
      ```bash
      git clone https://github.com/apache/fineract.git
@@ -51,9 +51,9 @@
            ```
 7. **Build the Project:**
    - Go to `Run` > `Run 'Fineract'`.
-   - IntelliJ IDEA will build and run the Apache Fineract server. You can access it using a web browser at `https://localhost:8443/fineract-provider`.
+   - IntelliJ IDEA will build and run the Apache Fineract® server. You can access it using a web browser at `https://localhost:8443/fineract-provider`.
 
-This should get you started with building and running Apache Fineract using IntelliJ IDEA. 
+This should get you started with building and running Apache Fineract® using IntelliJ IDEA. 
 
 ### Default configuration
 - By default the application will be using a self-signed TLS protocol (`https`) and port: `8443`
@@ -81,4 +81,4 @@ This should get you started with building and running Apache Fineract using Inte
        ```
 
 ### Important
-Keep in mind that Apache Fineract is a complex project, and you may encounter issues or need to configure additional settings based on your specific environment and requirements. It's a good practice to refer to the official Apache Fineract documentation and the project's developer community for more details and troubleshooting.
+Keep in mind that Apache Fineract® is a complex project, and you may encounter issues or need to configure additional settings based on your specific environment and requirements. It's a good practice to refer to the official Apache Fineract® documentation and the project's developer community for more details and troubleshooting!
