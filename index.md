@@ -7,7 +7,8 @@ layout: default
 # What is Fineract® Academy?
 
 This is an <b>unofficial</b> site where I will share articles about the Apache Fineract®.
-This site is intended to share my knowledge about Apache Fineract® and to help new comers to onboard with Apache Fineract®.
+<br/>
+This site is intended to share my knowledge about Apache Fineract® and to help newcomers to onboard with Apache Fineract® more easily.
 
 The official Apache Fineract® site can be found here: <a target="_blank" ref="noreferrer" href="https://fineract.apache.org"><b>Official Apache Fineract® webpage</b></a>!
 
